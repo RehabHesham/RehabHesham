@@ -47,14 +47,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-<div align="center">
-  <div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RehabHesham&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RehabHesham&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-  </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RehabHesham&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RehabHesham)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
